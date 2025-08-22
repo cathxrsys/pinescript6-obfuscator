@@ -1,3 +1,4 @@
 .ps
 scripts/
 myenv/
+__pycache__/
